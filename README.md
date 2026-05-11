@@ -1,37 +1,81 @@
-# Hi 👋, I'm Prakash Gupta
+# Hi 👋, I'm Prakash
 
-## 🚀 Information Technology Student | Full Stack Developer | AI Enthusiast
+### 🚀 Full Stack Developer | AI Enthusiast | Hackathon Builder
 
-I am an Information Technology student passionate about building scalable web applications and AI-powered tools. I enjoy solving complex problems using Data Structures and Algorithms and developing real-world projects using modern technologies.
+I’m a Computer Science student passionate about building modern web applications, AI-powered tools, and creative tech projects. I enjoy solving problems, learning new technologies, and turning ideas into real-world applications.
 
 ---
 
-## 💻 Tech Stack
+## 🌟 About Me
 
-### Programming Languages
+* 🎓 Computer Science Student
+* 💻 Skilled in MERN Stack Development
+* 🤖 Exploring AI Agents & Automation
+* 🏆 Hackathon Enthusiast
+* 📚 Currently improving my DSA & System Design skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+---
 
-### Frontend Development
+## 🚀 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+### 👨‍💻 Languages
 
-### Backend Development
+* Java
+* JavaScript
+* TypeScript
+* Python
+* C
+* HTML5
+* CSS3
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+### ⚙️ Frameworks & Libraries
 
-### Database
+* React.js
+* Node.js
+* Express.js
+* Tailwind CSS
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+### 🗄️ Databases
 
-### Tools & Technologies
+* MongoDB
+* MySQL
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+### ☁️ Cloud & Tools
+
+* AWS
+* Git & GitHub
+* VS Code
+* Postman
+* Docker
+
+---
+
+## 📈 GitHub Stats
+
+```txt
+⭐ Building projects consistently
+📚 Learning new technologies every day
+🚀 Focused on becoming a strong Software Engineer
+```
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React
+* AI Agents & Automation
+* Data Structures & Algorithms
+* System Design
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prakash-gupta-044a802b6/)
+* Email: [your-email@example.com](mailto:prash8264@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love participating in hackathons and building unique AI-powered projects that solve real-world problems.
