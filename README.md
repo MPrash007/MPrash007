@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Hackathon Builder
 
-I’m a Computer Science student passionate about building modern web applications, AI-powered tools, and creative tech projects. I enjoy solving problems, learning new technologies, and turning ideas into real-world applications.
+I’m a Information technology student passionate about building modern web applications, AI-powered tools, and creative tech projects. I enjoy solving problems, learning new technologies, and turning ideas into real-world applications.
 
 ---
 
