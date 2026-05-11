@@ -72,7 +72,7 @@ I’m a Information technology student passionate about building modern web appl
 ## 📫 Connect With Me
 
 * LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prakash-gupta-044a802b6/)
-* Email: [your-email@example.com](mailto:prash8264@gmail.com)
+* Email: [prash8264@gmail.com](mailto:prash8264@gmail.com)
 
 ---
 
